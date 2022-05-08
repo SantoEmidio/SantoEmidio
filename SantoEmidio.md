@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Cleberson Santos
 
 - 💻Hoje trabalho com Suporte Técnico
-- 🎓Estudando Backend em específico Python com foco em ciência de dados
+- 🎓Estudando Python com foco em ciência de dados e web com Django.
 - 👦Pronoums: ele/dele
 
 
@@ -14,7 +14,8 @@
   <img align="center" alt="EMidio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="EMidio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="EMidio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="EMidio-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg""
+  <img align="center" alt="EMidio=Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+          
   ##
   
 <div>  
